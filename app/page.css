@@ -861,6 +861,15 @@
   color: #d9fff2;
 }
 
+.siteFooter .brandMark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  text-align: center;
+  padding-top: 1px;
+}
+
 .siteFooter .brand small {
   color: #95cdbc;
 }
