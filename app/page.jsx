@@ -80,13 +80,13 @@ export default function HomePage() {
                   <strong>24h</strong> de respuesta promedio
                 </li>
                 <li>
-                  <strong>98%</strong> de satisfaccion de clientes
+                  <strong>100%</strong> de satisfaccion de clientes
                 </li>
                 <li>
-                  <strong>3.2x</strong> de interaccion con publicaciones
+                  <strong>Redfin</strong> Una sola entrada, alcance infinito: publica al instante en mas de 750 sitios inmobiliarios, incluyendo tu MLS local, Zillow y Trulia, Realtor.com, Redfin y Homes.com
                 </li>
                 <li className="heroStatHighlight">
-                  <strong>$9,000</strong> de ahorro para vendedores
+                  <strong>$9,000</strong> Los vendedores ahorran un promedio de $9,000 en comisiones
                 </li>
               </ul>
             </div>
@@ -134,7 +134,7 @@ export default function HomePage() {
                 Todo lo que necesitas para publicar en MLS y vender en tus terminos.
               </p>
               <p className="planPrice">$99</p>
-              <p className="planSub">Tarifa unica de publicacion</p>
+              <p className="planSub">$99 / .5%</p>
               <a href="#seller" className="btn btnPrimary wide">
                 Obtener Subsonic
               </a>
@@ -153,7 +153,7 @@ export default function HomePage() {
                 Destaca con contenido premium y mayor visibilidad de tu publicacion.
               </p>
               <p className="planPrice">$299</p>
-              <p className="planSub">Tarifa unica de publicacion</p>
+              <p className="planSub">$299 / .3%</p>
               <a href="#seller" className="btn btnSecondary wide">
                 Obtener Supersonic
               </a>
@@ -172,7 +172,7 @@ export default function HomePage() {
                 Maxima exposicion para publicaciones de alta urgencia y alto impacto.
               </p>
               <p className="planPrice">$599</p>
-              <p className="planSub">Tarifa unica de publicacion</p>
+              <p className="planSub">$599 / .25%</p>
               <a href="#seller" className="btn btnSecondary wide">
                 Obtener Hypersonic
               </a>
